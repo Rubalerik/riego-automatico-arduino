@@ -1,11 +1,11 @@
 /*
  * SISTEMA DE RIEGO AUTOMÁTICO - VIDEO 1
- * Canal: [Tu Canal]
+ * Canal: RubalerikCreativo
  * 
  * COMPONENTES:
  * - Arduino UNO
  * - Sensor humedad suelo (A0)
- * - Transistor (Pin 7)
+ * - Transistor (Pin 9)
  * - LED indicador (Pin 3)
  */
 
